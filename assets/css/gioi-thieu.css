@@ -294,7 +294,7 @@
     width: 32%;
     display: flex;
     border-right: 1px solid #f3f3f3;
-    margin-left: 81px;
+    margin-left: 80px !important;
     align-items: center;
 }
 .input-group {
